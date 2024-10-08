@@ -1,0 +1,28 @@
+/* Basic styles for the navbar */
+.navbar {
+    padding: 1rem;
+    background-color: #f8f9fa;
+}
+
+/* Add shadow and rounded corners to card components */
+.card {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Buttons styles */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+/* Custom footer styles */
+footer {
+    padding: 20px 0;
+    background-color: #f8f9fa;
+}
