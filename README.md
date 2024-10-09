@@ -1,4 +1,4 @@
-#  **  UserPortal  ** 🎉
+#  **UserPortal** 🎉
 
 ## **Overview**
 
