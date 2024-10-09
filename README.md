@@ -1,8 +1,8 @@
-# **UserPortal Pro** 🎉
+# **UserPortal ** 🎉
 
 ## **Overview**
 
-UserPortal Pro is a dynamic, next-generation customer management system built for modern businesses. This project integrates seamless **OAuth authentication** using Google, allowing users to log in effortlessly. It also provides a smooth customer registration process, along with WhatsApp API integration for customer confirmation and easy interaction.
+UserPortal  is a dynamic, next-generation customer management system built for modern businesses. This project integrates seamless **OAuth authentication** using Google, allowing users to log in effortlessly. It also provides a smooth customer registration process, along with WhatsApp API integration for customer confirmation and easy interaction.
 
 The application features **CRUD operations** for managing customers, an **admin dashboard** for viewing user actions, and **webhook integration** to notify admins about new form submissions. Built using **PHP**, **MySQL**, and **Bootstrap**, the platform aims to empower businesses with a scalable and intuitive portal.
 
